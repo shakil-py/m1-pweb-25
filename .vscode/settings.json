@@ -1,0 +1,8 @@
+{
+    "editor.cursorBlinking": "blink",
+    "editor.formatOnSave": true,
+    "editor.fontSize": 16,
+    "editor.formatOnPaste": true,
+    "editor.formatOnSaveMode": "file",
+    "editor.cursorStyle": "line-thin"
+}
